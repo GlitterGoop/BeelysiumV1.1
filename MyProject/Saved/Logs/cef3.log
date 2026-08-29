@@ -1,0 +1,25 @@
+[19112:17084:0828/230559.209:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19112:10604:0828/230559.253:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19112:17084:0828/230559.279:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31092:19932:0828/230602.792:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7FC8CB5C27BC9D1ED47C9B29D20C852F will be ignored
+[19632:8896:0828/230604.027:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19632:12676:0828/230604.060:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19632:12676:0828/230604.061:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19632:12676:0828/230604.061:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19112:25840:0828/230604.396:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[19112:17084:0828/230604.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19112:17084:0828/230604.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19112:17084:0828/230604.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19112:17084:0828/230604.496:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19112:25840:0828/230604.502:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13992:440:0828/230604.681:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13992:29692:0828/230604.747:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13992:29692:0828/230604.747:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13992:29692:0828/230604.748:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27696:9836:0828/230605.397:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[27696:9836:0828/230605.438:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19112:25840:0828/230605.514:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19112:17084:0828/230606.784:ERROR:device_event_log_impl.cc(196)] [23:06:06.757] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13992:440:0828/230607.558:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19112:25840:0828/230610.778:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19112:17084:0828/230620.052:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
